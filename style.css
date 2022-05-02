@@ -5,6 +5,7 @@
 body {
   margin: 0px;
   font-family: 'segoe ui';
+  background:linear-gradient(pink,#ed26cc,purple);
 }
 
 .nav {
