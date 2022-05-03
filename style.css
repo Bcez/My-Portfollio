@@ -3,12 +3,14 @@
 }
 
 body {
+  font-size: 20px;
   margin: 0px;
-  font-family: 'segoe ui';
+  font-family: 'sans';
   background:linear-gradient(pink,#ed26cc,purple);
 }
 
 .nav {
+  transition: all .5s ease;
   height: 50px;
   width: 100%;
   background-color:black;
