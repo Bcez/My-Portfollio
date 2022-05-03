@@ -6,7 +6,7 @@ body {
   font-size: 20px;
   margin: 0px;
   font-family: 'sans';
-  background:linear-gradient(pink,#ed26cc,purple);
+  background:linear-gradient(cyan,lightblue,royalblue);
 }
 
 .nav {
@@ -42,7 +42,7 @@ body {
 .nav > .nav-links > a {
   display: inline-block;
   padding: 13px 10px 13px 10px;
-  text-decoration: none;
+  text-decoration: wavy;
   color: #efefef;
 }
 
@@ -50,7 +50,8 @@ body {
   opacity: 0.9;
   color:black;
 height:50px;
-  transition: all .5s ease;
+transition: 1s ease-in-out;
+padding: 0px,9px;
   background-color: rgba(255, 255, 255, 1.0);
 }
 
