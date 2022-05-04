@@ -6,7 +6,8 @@ body {
   font-size: 20px;
   margin: 0px;
   font-family: 'sans';
-  background:linear-gradient(cyan,lightblue,royalblue);
+  color:white;
+  background:linear-gradient(royalblue,blue,navy);
 }
 
 .nav {
@@ -15,7 +16,7 @@ body {
   height: 50px;
   width: 100%;
   background-color:black;
-  position:fixed;
+  position:relative;
 }
 
 .nav > .nav-header {
@@ -50,7 +51,7 @@ body {
   opacity: 0.9;
   color:black;
 height:50px;
-transition: 1s ease-in-out;
+transition: 0.3s ease-in-out;
 padding: 0px,9px;
   background-color: rgba(255, 255, 255, 1.0);
 }
