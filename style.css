@@ -6,8 +6,8 @@ body {
   font-size: 20px;
   margin: 0px;
   font-family: 'sans';
-  color:white;
-  background:linear-gradient(royalblue,blue,navy);
+  color:darkslategray;
+  background-image: url("https://sustainabletravel.org/wp-content/uploads/Row-Background-Tall-Mountain-Silhouette-1-Low-scaled.jpg");
 }
 
 .nav {
