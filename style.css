@@ -11,7 +11,7 @@ body {
   font-size: 20px;
   text-shadow: white;
   margin: 0px;
-  font-family:Noto Sans Display;
+  font-family: 'Noto Sans Display', sans-serif;
   color:darkslategray;
   background-image: url("https://sustainabletravel.org/wp-content/uploads/Row-Background-Tall-Mountain-Silhouette-1-Low-scaled.jpg");
 }
